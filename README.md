@@ -1,2 +1,5 @@
 # atividade01-web
-atividade 01 de web
+## Hugo Leonardo Viana
+- HTML:básico
+- CSS:básico
+- javaScript:básico
