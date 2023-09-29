@@ -1,5 +1,5 @@
 # atividade01-web
-## Hugo Leonardo Viana
-- HTML:básico
-- CSS:básico
-- javaScript:básico
+Hugo Leonardo Viana
+- HTML: básico
+- CSS: básico
+- javaScript: básico
